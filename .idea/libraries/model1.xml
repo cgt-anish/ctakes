@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="model1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/org/apache/ctakes/assertion/models/subject/model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="model3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/org/apache/ctakes/assertion/models/polarity/sharpi2b2mipacqnegex/model.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
